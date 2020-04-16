@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Открыть навигацию</string>
+    <string name="navigation_drawer_close">Закрыть навигацию</string>
+    <string name="nav_header_title">Прогноз погоды</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Шапка навигации</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="menu_home">Дом</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_city_list">Мои города</string>
+
+    <string name="app_name">Прогноз погоды</string>
+    <string name="time">18:00</string>
+    <string name="date">01.06</string>
+    <string name="city">Берлин</string>
+    <string name="full_date">Пн, 1 июня, 17:25</string>
+    <string name="temperature">30</string>
+    <string name="weather">солнечно</string>
+    <string name="todo">TODO</string>
+    <string name="search_city">Введите название города</string>
+    <string name="search">Поиск</string>
+    <string name="leap_information">Дополнительная информация</string>
+    <string name="speed_of_wind">Скорость ветра</string>
+    <string name="pressure">Давление</string>
+    <string name="sunrise">Восход</string>
+    <string name="sunset">Закат</string>
+    <string name="add">добавить</string>
+    <string name="sunrise_Info">Восход 06:15</string>
+    <string name="sunset_Info">Закат 20:15</string>
+    <string name="pressure_Info">Давление 765 бр</string>
+    <string name="speed_of_wind_Info">Скороть ветра 15 м/с</string>
+    <string name="daily">Ежедневно</string>
+    <string name="Mo">Пн</string>
+    <string name="Place_not_found">Место не найдено</string>
+    <string name="cloud">облачно</string>
+    <string name="clear">ясно</string>
+    <string name="thunder">гроза</string>
+    <string name="drizzle">дождь с прояснениями</string>
+    <string name="rainy">дождь</string>
+    <string name="snowy">снег</string>
+    <string name="foggy">тунам</string>
+    <string name="Berlin">Берлин</string>
+
+
+</resources>
