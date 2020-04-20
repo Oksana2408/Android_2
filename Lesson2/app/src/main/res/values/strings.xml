@@ -1,0 +1,47 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_city_list"> My cities</string>
+
+
+    <string name="app_name">Weather forecast</string>
+    <string name="time">18:00</string>
+    <string name="date">01.06</string>
+    <string name="city">Berlin</string>
+    <string name="full_date">Mon, 1 Junе, 17:25</string>
+    <string name="temperature">30</string>
+    <string name="weather">sun</string>
+    <string name="todo">TODO</string>
+    <string name="search_city">Search your city</string>
+    <string name="search">search</string>
+    <string name="leap_information">Leap information</string>
+    <string name="speed_of_wind">speed of wind</string>
+    <string name="pressure">pressure</string>
+    <string name="sunrise">sunrise</string>
+    <string name="sunset">sunset</string>
+    <string name="add">add</string>
+    <string name="sunrise_Info">sunrise: 06:15</string>
+    <string name="sunset_Info">sunset: 20:15</string>
+    <string name="pressure_Info">pressure 745 br</string>
+    <string name="speed_of_wind_Info">speed of wind 15 m/s</string>
+    <string name="daily">daily</string>
+    <string name="Mo">Mo</string>
+    <string name="Place_not_found">Place not found</string>
+    <string name="cloud">cloud</string>
+    <string name="clear">clear</string>
+    <string name="thunder">thunder</string>
+    <string name="drizzle">drizzle</string>
+    <string name="rainy">rainy</string>
+    <string name="snowy">snowy</string>
+    <string name="foggy">foggy</string>
+    <string name="Berlin">Berlin</string>
+
+
+</resources>
